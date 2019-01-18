@@ -44,9 +44,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-pygments_options:
-  tabsize: 4
 # port
 # port: 1234
 
