@@ -36,6 +36,17 @@ type: page
 
 - 블로그 생성
 
+*2019.02.04*
+
+- Codeforces Rating Change: <span style="color:#03A89E">Mint(1599)</span> > <span style="color:#0000FF">Blue(1772)</span>
+
+*2019.02.25*
+
+- Codeforces Rating Change: <span style="color:#0000FF">Blue(1868)</span> > <span style="color:#AA00AA">Purple(2001)</span>
+
+
+
+
 ## Comments
 
 {% include comments.html %}
