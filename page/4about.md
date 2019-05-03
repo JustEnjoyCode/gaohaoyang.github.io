@@ -38,11 +38,11 @@ type: page
 
 *2019.02.04*
 
-- Codeforces Rating Change: <span style="color:#03A89E;font-weight:bold">Mint(1599)</span> > <span style="color:#0000FF;font-weight:bold">Blue(1772)</span>
+- Codeforces Rating Change: <span style="color:#03A89E;font-weight:bold">Specialist(1599)</span> > <span style="color:#0000FF;font-weight:bold">Expert(1772)</span>
 
 *2019.02.25*
 
-- Codeforces Rating Change: <span style="color:#0000FF;font-weight:bold">Blue(1868)</span> > <span style="color:#AA00AA;font-weight:bold">Purple(2001)</span>
+- Codeforces Rating Change: <span style="color:#0000FF;font-weight:bold">Expert(1868)</span> > <span style="color:#AA00AA;font-weight:bold">Candidate Master(2001)</span>
 
 
 
