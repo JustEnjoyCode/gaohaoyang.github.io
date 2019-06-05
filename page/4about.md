@@ -19,6 +19,7 @@ type: page
 - (Toy) Tic Tac Toe / Block game using Exhaustive Algorithm
 - (Toy) Shooting game using Java Swing
 
+
 ### Problem Solving
 *2019.02.04*
 
@@ -40,15 +41,17 @@ type: page
 * [CSAcademy](https://csacademy.com/user/unkoob)
 * [BOJ](https://www.acmicpc.net/user/lim551)
 
+
 ## Site Info
 
-**사용한 Jekyll 테마：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+**Jekyll Theme：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+
 
 ### Update Log
 
 *2019.01.17*
+- Made blog
 
-- 블로그 생성
 
 ## Comments
 
