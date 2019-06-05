@@ -11,6 +11,12 @@ type: page
 
 ## Info
 
+A college student who loves solving problems with various algorithms, and also loves studying new algorithms.
+
+So far I have only studied algorithms, but I'm also studying deep learning these days.
+
+Currently I'm in [SW Maestro](https://swm.recruiter.co.kr/appsite/company/index) course and planning a project which use NLP algorithms.
+
 <iframe src="https://githubbadge.appspot.com/booknu?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ### Projects
