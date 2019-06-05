@@ -52,7 +52,7 @@ Currently I'm in [SW Maestro](https://swm.recruiter.co.kr/appsite/company/index)
 ### Update Log
 
 *2019.01.17*
-- Made blog
+- Created Blog
 
 ## Comments
 
