@@ -12,7 +12,6 @@ type: page
 ## Info
 
 <iframe src="https://githubbadge.appspot.com/booknu?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
 A college student who loves solving problems with various algorithms, and also loves studying new algorithms.
 
 So far I have only studied algorithms, but I'm also studying deep learning these days.
@@ -32,7 +31,12 @@ Currently I'm in [SW Maestro](https://swm.recruiter.co.kr/appsite/company/index)
 - Codeforces Rating Change: <span style="color:#03A89E;font-weight:bold">Specialist(1599)</span> > <span style="color:#0000FF;font-weight:bold">Expert(1772)</span>
 
 *2019.02.25*
+
 - Codeforces Rating Change: <span style="color:#0000FF;font-weight:bold">Expert(1868)</span> > <span style="color:#AA00AA;font-weight:bold">Candidate Master(2001)</span>
+
+*2019.07.30*
+
+- SCPC Final (2 solved)
 
 ## Contact Me
 
