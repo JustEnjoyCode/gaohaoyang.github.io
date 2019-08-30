@@ -1,0 +1,23 @@
+http://jjycjnmath.tistory.com/117
+
+http://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm
+
+\tiny{ }, \scriptsize{ }, \small{ }, \normal{ }, \large{ }, \Large{ }, \LARGE{ }, \huge{ }, \Huge{ }
+
+\rightarrow ->
+
+x_s   xs
+
+\cdot
+\sum_{i=0}^n
+\sum\limits_{i \le 7}
+\product_{i=0}^n
+\therefore   따라서
+\pmod : (mod x) 와 같이 사용
+\bmod : 이항연산자
+\equiv
+\lbrace \rbrace : {}
+\mathbb R: R, Z 같은거 다른 글씨체로 써줌
+\mid : set에서 중간 |
+\in : set에서 속할 때 삼지창
+\lim\limits_{n \to \infin}

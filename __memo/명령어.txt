@@ -1,0 +1,5 @@
+- Blog 디렉토리로 이동: cd /d/____Development/Projects/Web/Blog/booknu/booknu.github.io
+
+- Algorithm 디렉토리: cd /d/____Development/Projects/Cpp/Algorithms
+
+- add, commit, push 동시에: git add * | git commit -m "auto commit" | git push
