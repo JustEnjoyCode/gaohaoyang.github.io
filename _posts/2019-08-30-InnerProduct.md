@@ -36,5 +36,5 @@ $$\vec{a} \cdot \vec{b} = |\vec{a}||\vec{b}|\cos\theta = a_1b_1+a_2b_2$$
 
 - 수직 판별 (내적이 $0$)
 - 두 벡터의 각
-  - $$\cos\theta = \frac{\vec{a}\cdot\vec{b}}{|\vec{a}||\vec{b}|} = \frac{a_1b_1+a_2b_2}{\sqrt{{a_1}^2+{a_2}^2} \times \sqrt{{b_1}^2+{b_2}^2}}$$
+  - 
 
