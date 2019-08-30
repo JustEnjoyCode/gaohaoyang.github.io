@@ -12,6 +12,6 @@ mathjax: true
 {:toc}
 ## 내적의 정의
 
-- $$$\vec{a} \cdot \vec{b} = |\vec{a}||\vec{b}|\cos\theta$$$
+- $\vec{a} \cdot \vec{b} = |\vec{a}||\vec{b}|\cos\theta$
 - 
 
