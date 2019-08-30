@@ -14,7 +14,7 @@ mathjax: true
 
 $\vec{a} \cdot \vec{b} = \lvert\vec{a}\rvert\lvert\vec{b}\rvert\cos\theta = a_1b_1+a_2b_2$
 
-- 벡터를 다른 벡터에 정사영시킨 크기의 곱
+- 벡터를 다른 벡터에 정사영시킨 크기의 곱!!
 
 ## 내적의 특징
 
