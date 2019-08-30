@@ -17,5 +17,20 @@ $\vec{a}\times\vec{b} = (a_2b_3-a_3b_2,\ a_3b_1-a_1b_3,\ a_1b_2-a_2b_1)$
 - **방향**: 두 벡터와 동시에 수직
 - **크기**: 두 벡터를 변으로 하는 평행사변형의 넓이
   - $\lvert\vec{a}\times\vec{b}\rvert = \lvert\vec{a}\rvert\lvert\vec{b}\rvert\sin\theta$
-  - $|ab|$
+
+## 외적의 활용
+
+### 삼각형 넓이
+
+![](/img/190830_OuterProduct/tri.png)
+
+### 평행사변형 넓이
+
+![parallel](\img\190830_OuterProduct\parallel.png)
+
+## 출처
+
+https://j1w2k3.tistory.com/635
+
+
 

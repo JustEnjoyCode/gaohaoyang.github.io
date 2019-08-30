@@ -39,11 +39,11 @@ baidu_tongji_id:
 google_analytics_id: UA-132681842-1 # google analystic id
 
 # Build settings
+
+markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-markdown: kramdown
-
 # port
 # port: 1234
 
