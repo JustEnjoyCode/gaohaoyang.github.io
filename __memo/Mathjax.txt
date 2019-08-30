@@ -8,6 +8,7 @@ http://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm
 
 x_s   xs
 
+\lvert  \rvert : absolute, 절대값, |, | 바로 쓰면 markdown에서 table로 판별함.
 \cdot
 \sum_{i=0}^n
 \sum\limits_{i \le 7}
