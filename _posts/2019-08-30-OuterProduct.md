@@ -20,7 +20,7 @@ $\vec{a}\times\vec{b}\\=\begin{vmatrix}a_2 & a_3 \\ b_2 & b_3\end{vmatrix}\vec{i
 - **크기**: 두 벡터를 변으로 하는 평행사변형의 넓이
   - $\lvert\vec{a}\times\vec{b}\rvert = \lvert\vec{a}\rvert\lvert\vec{b}\rvert\sin\theta$
 
-
+![]({{site.url}}/img/190830_OuterProduct/finger.png)
 
 ## 외적의 성질
 
@@ -65,5 +65,6 @@ $\vec{a}\times\vec{b}\\=\begin{vmatrix}a_2 & a_3 \\ b_2 & b_3\end{vmatrix}\vec{i
 
 https://j1w2k3.tistory.com/635
 
+https://assortrock.com/24
 
-
+https://m.blog.naver.com/PostView.nhn?blogId=mindo1103&logNo=90103361104&proxyReferer=https%3A%2F%2Fwww.google.com%2F
