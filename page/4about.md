@@ -24,10 +24,15 @@ Currently I'm in [SW Maestro](https://swm.recruiter.co.kr/appsite/company/index)
 - (Toy) Simple personal NAS using JSP & HTML
 - (Toy) Tic Tac Toe / Block game using Exhaustive Algorithm
 - (Toy) Shooting game using Java Swing
+- (In progress) Mock Job Interview Service for job seekers
+  - Generate interview questions
+  - Mock interview with synthesized interview video
+  - Evaluate interviewee's facial expression, eye treatment, speech speed, speech tone, personality insights
 
 ### Problem Solving
 
 *2019.02.04*
+
 - Codeforces Rating Change: <span style="color:#03A89E;font-weight:bold">Specialist(1599)</span> > <span style="color:#0000FF;font-weight:bold">Expert(1772)</span>
 
 *2019.02.25*
@@ -36,7 +41,13 @@ Currently I'm in [SW Maestro](https://swm.recruiter.co.kr/appsite/company/index)
 
 *2019.07.30*
 
-- SCPC Final (2 solved)
+- SCPC Final (423 point)
+
+*2019.08.03*
+
+- UCPC Final (42nd-place)
+
+
 
 ## Contact Me
 
