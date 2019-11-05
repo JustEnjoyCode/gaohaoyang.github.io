@@ -9,6 +9,7 @@ http://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm
 x_s   xs
 
 \lvert  \rvert : absolute, 절대값, |, | 바로 쓰면 markdown에서 table로 판별함.
+\times : X
 \cdot
 \sum_{i=0}^n
 \sum\limits_{i \le 7}
@@ -22,3 +23,6 @@ x_s   xs
 \mid : set에서 중간 |
 \in : set에서 속할 때 삼지창
 \lim\limits_{n \to \infin}
+\text{} : 글자체 고딕으로 만듬.
+\left[ \begin{matrix} a & b & c \\ d & e & f \end{matrix} \right] : 행렬 표현
+\begin{equation} \begin{cases} 1 & if y = 1 \\ -1 if y = 0  \end{cases} \end{equation} : 조건부 함수 표현 (case)
