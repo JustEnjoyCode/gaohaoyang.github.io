@@ -18,6 +18,11 @@ So far I have only studied algorithms, but I'm also studying deep learning these
 
 Currently I'm in [SW Maestro](https://swm.recruiter.co.kr/appsite/company/index) course and planning a project which use NLP algorithms.
 
+### Career
+
+- *2020.01.02 ~*
+  - Kakao Software Engineer
+
 ### Projects
 
 - (Toy) Web contents downloader using Java & Multithreading
@@ -47,7 +52,9 @@ Currently I'm in [SW Maestro](https://swm.recruiter.co.kr/appsite/company/index)
 
 - UCPC Final (42nd-place)
 
+*2019.11.16*
 
+- Busan Coding Contest (1st Prize)
 
 ## Contact Me
 
